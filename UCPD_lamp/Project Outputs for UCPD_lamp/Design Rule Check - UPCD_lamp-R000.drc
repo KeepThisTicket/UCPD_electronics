@@ -1,0 +1,60 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\User\Documents\Helpful Engineering\UCPD_electronics\UCPD_lamp\UPCD_lamp-R000.PcbDoc
+Date     : 5/26/2020
+Time     : 11:18:09 PM
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad Q100-3(34.243mm,20.712mm) on Top Layer And Pad Q100-4(34.243mm,20.062mm) on Top Layer 
+   Violation between Clearance Constraint: (0mm < 0.152mm) Between Pad Q100-5(37.223mm,20.062mm) on Top Layer And Pad Q100-9(36.068mm,21.037mm) on Top Layer 
+   Violation between Clearance Constraint: (0mm < 0.152mm) Between Pad Q100-6(37.223mm,20.712mm) on Top Layer And Pad Q100-9(36.068mm,21.037mm) on Top Layer 
+   Violation between Clearance Constraint: (0mm < 0.152mm) Between Pad Q100-7(37.223mm,21.362mm) on Top Layer And Pad Q100-9(36.068mm,21.037mm) on Top Layer 
+   Violation between Clearance Constraint: (0mm < 0.152mm) Between Pad Q100-8(37.223mm,22.012mm) on Top Layer And Pad Q100-9(36.068mm,21.037mm) on Top Layer 
+Rule Violations :5
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=50.8mm) (Preferred=0.152mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.102mm) Between Pad J100-1(4.2mm,12.625mm) on Top Layer And Pad J100-2(4.2mm,11.975mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.102mm) Between Pad J100-2(4.2mm,11.975mm) on Top Layer And Pad J100-3(4.2mm,11.325mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.102mm) Between Pad J100-3(4.2mm,11.325mm) on Top Layer And Pad J100-4(4.2mm,10.675mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.102mm) Between Pad J100-4(4.2mm,10.675mm) on Top Layer And Pad J100-5(4.2mm,10.025mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+Rule Violations :4
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:01

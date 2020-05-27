@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UCPD_lamp.PrjPcb]
+   Generated File[UPCD_lamp-R000.TXT]
+   Generated File[UPCD_lamp-R000.LDP]
+   Generated File[UPCD_lamp-R000.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:50:34 PM On 5/26/2020
